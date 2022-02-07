@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @fl4mxr1
+- 👀 I’m interested in computer science and programming!
+- 🌱 I’m currently learning HTML, CSS and JS!
+- 📫 How to reach me: YT: https://www.youtube.com/channel/UCXYjLFP1KRR0eif1i-3XzMQ  //	Discord: @fl4mxr1 📮📮📮#0712		//	GMAIL: fl4mxr1@gmail.com	//
