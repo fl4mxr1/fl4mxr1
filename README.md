@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fl4mxr1
-- 👀 I’m interested in computer science and programming!
-- 🌱 I’m currently learning HTML, CSS and JS!
-- 📫 How to reach me: YT: https://www.youtube.com/channel/UCXYjLFP1KRR0eif1i-3XzMQ  //	Discord: @fl4mxr1 📮📮📮#0712	//
+# hi i am flour mixer (fl4mxr1)
+i can code in these languages: *html, css, javascript, python, lua, luau and a little bit of c#*
+
+my website (wip): https://new.fl4mxr1.me/
