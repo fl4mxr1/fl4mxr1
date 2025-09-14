@@ -3,27 +3,27 @@ swedish & thai guy, transfem 🏳️‍⚧️
 
 ### i can code in: 
 
-  ✧ html, 
+  ✧ *html,*
 
-  ✧ css, 
+  ✧ *css,*
 
-  ✧ javascript, 
+  ✧ *javascript,*
 
-  ✧ python, 
+  ✧ *python,*
 
-  ✧ lua & luau,
+  ✧ *lua & luau,*
 
-  ✧ c# (a little)
+  ✧ *c# (a little)*
 
 ### i want to learn:
 
-  ✧ c++
+  ✧ *c++*
 
-  ✧ rust (maybe)
+  ✧ *rust (maybe)*
 
-  ✧ java
+  ✧ *java*
 
-i also enjoy doing ui design, graphic design, 3d modelling and drawing
+i also enjoy doing *ui design*, *graphic design*, *3d modelling* and *drawing*
 
 ### [here's my website!!!](https://fl4mxr1.straw.page/)
 ###### (actual website coming soon...)
