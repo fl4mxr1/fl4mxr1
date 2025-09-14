@@ -1,12 +1,29 @@
 # hi i am flour mixer (fl4mxr1)
-swedish guy
+swedish & thai guy, transfem 🏳️‍⚧️
 
-i can code in these languages: *html, css, javascript, python, lua, luau and a little bit of c#*
+### i can code in: 
 
-i also do ui design and 3d modeling
+  ✧ html, 
 
-more info here:
-https://fl4mxr1.straw.page/
-website coming soon !!
+  ✧ css, 
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T61AO6Z4)
+  ✧ javascript, 
+
+  ✧ python, 
+
+  ✧ lua & luau,
+
+  ✧ c# (a little)
+
+### i want to learn:
+
+  ✧ c++
+
+  ✧ rust (maybe)
+
+  ✧ java
+
+i also enjoy doing ui design, graphic design, 3d modelling and drawing
+
+### [here's my website!!!](https://fl4mxr1.straw.page/)
+###### (actual website coming soon...)
