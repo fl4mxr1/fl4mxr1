@@ -1,29 +1,23 @@
-# hi i am flour mixer (fl4mxr1)
-swedish & thai guy, transfem 🏳️‍⚧️
+# Hi, I'm Flour *(he/she)*
 
-### i can code in: 
+I'm a 🏳️‍⚧️girl from Sweden
 
-  ✧ *html,*
+I enjoy programming, making games, UI designs & doing graphic design
 
-  ✧ *css,*
+<h3 align="center">
+  I'm skilled/intermediate at:<br/><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,godot,python,lua,robloxstudio" />
+  </a>
+</h3>
 
-  ✧ *javascript,*
+<h3 align="center">
+  I'm learning/want to learn:<br/><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,cs,rust,java" />
+  </a>
+</h3>
 
-  ✧ *python,*
-
-  ✧ *lua & luau,*
-
-  ✧ *c# (a little)*
-
-### i want to learn:
-
-  ✧ *c++*
-
-  ✧ *rust (maybe)*
-
-  ✧ *java*
-
-i also enjoy doing *ui design*, *graphic design*, *3d modelling* and *drawing*
-
-### [here's my website!!!](https://fl4mxr1.straw.page/)
-###### (actual website coming soon...)
+<h1 align="center">
+  <a href="https://fl0ur.straw.page">Check out my website!! (wip)</a>
+</h1>
