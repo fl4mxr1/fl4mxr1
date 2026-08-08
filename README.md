@@ -7,14 +7,14 @@ I enjoy programming, making games, UI designs & doing graphic design
 <h3 align="center">
   I'm skilled/intermediate at:<br/><br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,godot,python,lua,robloxstudio" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,godot,python,lua,robloxstudio,java,svelte" />
   </a>
 </h3>
 
 <h3 align="center">
   I'm learning/want to learn:<br/><br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,rust,java" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,rust" />
   </a>
 </h3>
 
